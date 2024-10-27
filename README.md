@@ -3,7 +3,7 @@
 <h3 align="center">Начинающий Python Developer</h3>
 <h3 align="center">Blogikum - онлайн-сервис для ведения блога.</h3>
 
-## Пример сайта находится по [efimovvlat.ru](https://efimovvlat.ru)
+## Пример сайта находится на [efimovvlat.ru](https://efimovvlat.ru)
 
 ## Как запустить проект
 
